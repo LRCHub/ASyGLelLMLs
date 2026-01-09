@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひとりじゃないのよ（feat. SONOMI）",
+  "base_artist": "KREVA",
+  "createdAt": "2026-01-09T15:00:42.364113Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひとりじゃないのよ feat.SONOMI",
+      "artist": "KREVA",
+      "has_synced": false,
+      "path": "select/pl_01_ひとりじゃないのよ_feat.SONOMI_KREVA.txt"
+    }
+  ]
+}
